@@ -9,7 +9,7 @@ public class HomeController {
 	@GetMapping("/api")
 	@ResponseBody()
 	public String fun() {
-		return "HELLO WORLD!";
+		return "HELLO Ankita, How are you!";
 	}
 
 }
